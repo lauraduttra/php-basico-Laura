@@ -2,8 +2,8 @@
 
 #### - Exercício 1
 Iniciamos a TAG do PHP
-```
-SQL
+
+```SQL
 <?php
 echo"Hello, world!" ;
 ?>
